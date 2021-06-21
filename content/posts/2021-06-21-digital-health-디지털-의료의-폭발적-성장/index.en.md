@@ -54,3 +54,9 @@ tags:
 이런 것을 생각한다면 한국의 변화는 5년뒤 10년 뒤를 기대할 수 있을까?
 
 가장 우려되는 것은 혹시나 이런 변화가 stakeholder들은 눈치채지 못하는 사이 공무원들의 서류 속에서 시나브로 이루어지는 것이다. 
+
+References:
+
+1. “2020 Market Insights Report: Chasing a new equilibrium.” Rock Health. https://rockhealth.com/reports/2020-market-insights-report-chasing-a-new-equilibrium/. Accessed Mar 5 2021.
+2. “The era of exponential improvement in healthcare?” McKinsey & Company. https://www.mckinsey.com/industries/healthcare-systems-and-services/our-insights/the-era-of-exponential-improvement-in-healthcare (Links to an external site.). Accessed Mar 5 2021
+3. “What’s ahead for digital health in 2021?” Rock Health. https://rockhealth.com/reports/whats-ahead-for-digital-health-in-2021/ (Links to an external site.). Accessed Mar 5 2021.
