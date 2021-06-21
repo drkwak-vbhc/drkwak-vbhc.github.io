@@ -13,19 +13,21 @@ title: About Me
 - :mortar_board: **Master of Science - Orthopaedic Surgery & Biomechanics**
   - *Kyung Hee Univ.* 
 - :mortar_board: **Master of Public Health** in Health Management
-  - *Harvard Univ.* , Harvard T. H. Chan School of Public Health
+  - *Harvard Univ.* 
 
 --------------------------
  
 - :hospital: Board-Certified Orthopaedic Surgeon
   - *Hip & Knee Reconstruction*
+  
 - :writing_hand: Value-Based Health Care Intensive Course Alumni
-  - *Harvard Business School (Prof. Michael Porter / Robert Kaplan)*
+  - *Harvard Business School 
+  
 - :writing_hand: Healthcare Ventures Alumni
-  - *MIT Sloan (Prof Zen Chu)*
+  - *MIT Sloan 
     - Petie: Virtual physical therapy platform for patients after total knee replacement surgery.
 - :writing_hand: Harvard i-Lab Alumni
-  - *[CareLink](https://innovationlabs.harvard.edu/current-team/carelink/)* - Founder
+  - *[CareLink](https://innovationlabs.harvard.edu/current-team/carelink/)* 
     - CareLink Helps patients with joint replacement surgeries and their physicians track their treatment journey and achieve value-based care efficiently.
 
 --------------------------
