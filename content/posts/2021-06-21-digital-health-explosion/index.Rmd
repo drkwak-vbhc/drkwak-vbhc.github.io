@@ -1,11 +1,14 @@
 ---
-title: "2021 06 21 Digital Health_디지털 의료의 폭발적 성장"
-date: 2021-06-21T10:42:36-04:00
-draft: true
-toc: false
-images:
-tags: 
+title: 2021년 미국 디지털 의료의 폭발적 성장
+author: SangJoon
+date: '2021-06-21'
+slug: []
+categories:
+  - Health Management
+tags:
   - Digital Health
+toc: no
+images: ~
 ---
 
 미국 스타트업에 대한 투자가 역대 최고 치를 갱신하고 있다. 주가의 고공 행진과 더불어 많은 스타트업들이 IPO를 단행하였고 (성공과 실패는 별개의 이야기로...) 연방정부는 연일 돈을 찍어내는데 여념이 없다. 아직 적절한 투자처를 찾지 못한 펀드가 어마어마하다는 업계의 풍문을 고려한다면, 시장에 대한 여러 우려가 있음에도 이런 고공 행진은 당분간 지속될 듯하다. 
