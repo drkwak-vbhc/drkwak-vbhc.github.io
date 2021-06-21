@@ -21,10 +21,10 @@ title: About Me
   - *Hip & Knee Reconstruction*
   
 - :writing_hand: Value-Based Health Care Intensive Course Alumni
-  - *Harvard Business School 
+  - *Harvard Business School* 
   
 - :writing_hand: Healthcare Ventures Alumni
-  - *MIT Sloan 
+  - *MIT Sloan* 
     - Petie: Virtual physical therapy platform for patients after total knee replacement surgery.
 - :writing_hand: Harvard i-Lab Alumni
   - *[CareLink](https://innovationlabs.harvard.edu/current-team/carelink/)* 
