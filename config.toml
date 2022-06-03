@@ -1,7 +1,7 @@
 baseURL = "https://drkwak-vbhc.netlify.app/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
-title = "Bring Value to Healthcare Again"
+title = "Hip & Knee Stories"
 theme = "hermit"
 # enableGitInfo = true
 pygmentsCodefences  = true
@@ -61,7 +61,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 
   [[params.social]]
     name = "email"
-    url = "sangjoon_kwak@hsph.harvard.edu"
+    url = "dr.sangjoon.kwak@gmail.com"
 
   [[params.social]]
     name = "github"
